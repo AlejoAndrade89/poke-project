@@ -1,0 +1,19 @@
+.water {
+  background-color: blue;
+  color: black;
+}
+
+.fire {
+  background-color: red;
+  color: black;
+}
+
+.air {
+  background-color: lightgrey;
+  color: black;
+}
+
+.electric {
+  background-color: yellow;
+  color: black;
+}

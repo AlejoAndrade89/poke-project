@@ -1,0 +1,23 @@
+.fire {
+  background-color: red;
+  height: 200px;
+  width: 50%;
+}
+
+.water {
+  background-color: blue;
+  height: 200px;
+  width: 50%;
+}
+
+.air {
+  background: lightgrey;
+  height: 200px;
+  width: 50%;
+}
+
+.electric {
+  background-color: yellow;
+  height: 200px;
+  width: 50%;
+}
